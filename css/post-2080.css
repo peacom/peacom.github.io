@@ -187,12 +187,13 @@
 }
 
 .elementor-2080 .elementor-element.elementor-element-792cf46b>.elementor-widget-container {
-    margin: 44px 44px 0px 44px;
+    margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
 }
 
 .elementor-2080 .elementor-element.elementor-element-792cf46b img {
     border-radius: 0px 0px 0px 0px;
+    background-color: var(--e-global-color-15e26ab) ;
 }
 
 .elementor-2080 .elementor-element.elementor-element-2fd32fbc {
